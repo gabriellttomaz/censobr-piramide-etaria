@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Rproj.user/
+*.parquet
+.quarto/
+apresentacao/*_files/
+Rplots.pdf
