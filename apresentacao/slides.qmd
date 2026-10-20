@@ -199,9 +199,9 @@ Mesma função para qualquer UF: `calcular_piramide(pop, uf = "AM")`
 
 ## Duas fases da transição demográfica
 
-![](../output/piramide_am_rs_2010.png){fig-align="center" height="560"}
+![](../output/piramide_am_rs_2010.png){fig-align="center" height="470"}
 
-Amazonas: base larga, população jovem · Rio Grande do Sul: base estreita, envelhecimento avançado
+[Amazonas: base larga, população jovem · Rio Grande do Sul: base estreita, envelhecimento avançado]{style="font-size: 0.7em"}
 
 ## O Brasil envelheceu
 
